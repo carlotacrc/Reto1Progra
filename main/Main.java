@@ -1,6 +1,6 @@
 package Reto1Progra.main;
 import java.io.*;
-import java.util.Set;
+
 import Reto1Progra.BinaryTree.BinaryTree;
 import java.util.*;
 
@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String filePath = "data.txt"; 
+        String filePath = "C:\\Users\\Carlota\\OneDrive\\Documents\\Progamacion2_II\\Reto1Progra\\data.txt";; 
         BinaryTree arbol = new BinaryTree();
 
      

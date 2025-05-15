@@ -1,0 +1,9 @@
+int main = 0; // should not be added (reserved word)
+String userName = "Alice";
+userName = "Bob";
+int userAge = 30;
+double salary_$ = 9999.99;
+boolean isActive_user = true;
+if (userAge > 18 && isActive_user) {
+    System.out.println(userName);
+}
